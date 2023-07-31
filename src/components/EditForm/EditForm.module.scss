@@ -1,0 +1,15 @@
+.editForm {
+    margin-top: 20px;
+
+    .buttons {
+        display: flex;
+        align-items: center;
+        justify-content: right;
+        flex-wrap: wrap;
+        gap: 20px;
+
+        div {
+            margin: 0;
+        }
+    }
+}

@@ -1,0 +1,15 @@
+.addForm {
+  margin-top: 20px;
+}
+.addForm .buttons {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.addForm .buttons div {
+  margin: 0;
+}
+
+/*# sourceMappingURL=AddForm.module.css.map */

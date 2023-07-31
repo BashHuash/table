@@ -1,0 +1,16 @@
+.modal input[type=number]::-webkit-outer-spin-button,
+.modal input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+.modal input[type=number],
+.modal input[type=number]:hover,
+.modal input[type=number]:focus {
+  appearance: none;
+  -moz-appearance: textfield;
+}
+.modal h1 {
+  font-size: 14px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=ModalComponent.module.css.map */
